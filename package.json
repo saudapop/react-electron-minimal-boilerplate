@@ -1,5 +1,5 @@
 {
-  "name": "promptly",
+  "name": "myApp",
   "version": "0.1.0",
   "private": true,
   "main": "public/electron.js",
@@ -31,13 +31,13 @@
   },
   "homepage": "./",
   "build": {
-    "appId": "promptly",
+    "appId": "myApp",
     "files": [
       "build/**/*",
       "node_modules/**/*"
     ],
     "directories": {
-      "buildResources": "assets"
+      "buildResources": "build"
     }
   },
   "eslintConfig": {
