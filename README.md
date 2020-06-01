@@ -6,8 +6,10 @@ I wanted something more barebones than the official CRA + Electron boilerplate(w
 
 These are the only two you need to worry about:
 
-`npm run dev`
+`npm run start`
 
 `npm run dist`
 
-for the flag options to pass to dist check out the (electron docs)[https://www.electron.build/cli]. You might have to run it manually `npx electron-builder -wml` (notice the 'x' in 'npx') if you pass flags to the dist command.
+for the flag options to pass to dist check out the (electron docs)[https://www.electron.build/cli].
+
+e.g: `npm run dist -- -wml` will build for windows and mac and linux!
