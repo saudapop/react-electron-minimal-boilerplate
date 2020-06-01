@@ -1,6 +1,6 @@
 #### Why?
 
-I wanted something more barebones than the official CRA + Electron boilerplate(which is really awesome) for throwing together a desktop app faster. This is based on (this amazing article) by @kitze[https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3] with some updates as electron has been improved since.
+I wanted something more barebones than the official CRA + Electron boilerplate(which is really awesome) for throwing together a desktop app faster. This is based on (this amazing article) by (@kitze)[https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3] with some updates as electron has been improved since.
 
 #### Scripts
 
